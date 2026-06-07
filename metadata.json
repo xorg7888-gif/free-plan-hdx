@@ -1,0 +1,6 @@
+{
+  "name": "HDX-INVITE",
+  "description": "Premium Minecraft Invite & Monthly Hosting Plans • power • speed • uptime",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
